@@ -15,6 +15,7 @@ Aquí se practican muchas cosas:
 *diccionarios, extraccion de claves/valores
 *crear e importar un modulo propio (biblioteca de funciones)
 *se trabaja con Github, claro
-*funciones con *args
+*funciones
+*lectura de archivos
 
 Contador de letras. Primera version-solo cuenta vocales.

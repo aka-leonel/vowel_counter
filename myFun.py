@@ -21,11 +21,11 @@ def countVocals(text):
         if x == "u":
             myDic["u"] = myDic["u"]+1
         
-    # print("a: ", myDic["a"])
-    # print("e: ", myDic["e"])
-    # print("i: ", myDic["i"])
-    # print("o: ", myDic["o"])
-    # print("u: ", myDic["u"])
+    print("a: ", myDic["a"])
+    print("e: ", myDic["e"])
+    print("i: ", myDic["i"])
+    print("o: ", myDic["o"])
+    print("u: ", myDic["u"])
     
     totalVocales = myDic["a"] + myDic["e"] + myDic["i"] + myDic["o"] + myDic["u"]
     print("longitud texto: ", len(text))
