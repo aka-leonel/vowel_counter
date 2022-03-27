@@ -16,7 +16,6 @@ def countVocals(text):
              "l":0,
              "m":0,
              "n":0,
-             "ñ":0,
              "p":0,
              "q":0,
              "r":0,
@@ -65,8 +64,7 @@ def countVocals(text):
             myDic["m"] = myDic["m"]+1
         if x == "n":
             myDic["n"] = myDic["n"]+1
-        if x == "ñ":
-            myDic["ñ"] = myDic["ñ"]+1
+       
         if x == "p":
             myDic["p"] = myDic["p"]+1
         if x == "q":
